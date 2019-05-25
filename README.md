@@ -4,11 +4,11 @@
 
 * Technology: Pyhton, R, PHP, postgres, html, and css
 
-* The code for the iteration one is at:
-* https://drive.google.com/open?id=1jF_mMvS8AIKdy8KtrQxj4GyayZVkvUz4
+* The code is at:
+* https://drive.google.com/drive/u/2/folders/12IwQVBlBV6U5Vq1rJRPJeowO8LwrCJPw
 
 * The link for iteration one is:
-* http://it1-knowyourwaves.tk
+* http://knowyourwaves.ml
 
 * Some useful project links:
 * https://www.tra.gov.au/International/International-Tourism-Forecasts/international-tourism-forecasts
